@@ -25,31 +25,7 @@ Key highlights:
 
 ## 🏗️ System Architecture
 
-```
-STL Models (Skull, Vessels)
-        ↓
-Mesh Preprocessing (Trimesh, 2mm voxelize)
-        ↓
-KDTree & Clearance Map
-        ↓
-Collision Marking (unsafe < 4mm)
-        ↓
-3D Grid Environment (2mm voxels)
-        ↓
-Q-Learning Agent — Action Space: {±X, ±Y, ±Z}
-        ↓
-Reward Module (+100 success, -100 collision)
-        ↓ ↺ experience
-Policy Extraction (Greedy)
-        ↓
-Path Smoothing (cubic interpolation)
-        ↓
-Safety Checker (≥ 4mm clearance)
-        ↓
-Franka Panda Execution (Inverse Kinematics)
-        ↓
-Final Safe Trajectory
-```
+![Brain Surgery Visualization](_- visual selection (1).png)
 
 ---
 
