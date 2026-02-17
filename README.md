@@ -43,20 +43,6 @@ WITH ROBOT ARM AND NEEDLE
 - Python 3.10+
 - Ubuntu (recommended) or macOS
 
-### Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/rl-brain-surgery-path-planning.git
-cd rl-brain-surgery-path-planning
-
-# Create a virtual environment
-python -m venv venv
-source venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
 
 ### Dependencies
 
