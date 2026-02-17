@@ -19,9 +19,11 @@ Key highlights:
 
 ---
 
-## 🎥 Demo Videos
-![Copy of Video Project 5 (1) (1) (1)](https://github.com/user-attachments/assets/00841dda-27bb-4a1d-95bf-f6a6a7a39508)
+## 🎥 Demo Videos (copyrighted by yaxita and manasa)
+
 WITHOUT ROBOT ARM
+
+![Copy of Video Project 5 (1) (1) (1)](https://github.com/user-attachments/assets/00841dda-27bb-4a1d-95bf-f6a6a7a39508)
 
 ![Copy of Video Project 6 (1)](https://github.com/user-attachments/assets/532d5656-469f-4587-927d-4952127e97b0)
 
