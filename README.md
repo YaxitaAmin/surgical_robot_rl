@@ -21,8 +21,8 @@ Key highlights:
 
 ## 🎥 Demo Videos
 
-![demo video](video.mp4)
-
+[![demo video](video.mp4)
+](https://github.com/YaxitaAmin/surgical_robot_rl/raw/main/video.mp4)
 ---
 
 ## 🏗️ System Architecture
