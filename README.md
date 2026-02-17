@@ -17,6 +17,7 @@ Key highlights:
 - **≥4mm safety margin** guaranteed from all blood vessels
 - Full integration with a Franka Panda robotic arm via Inverse Kinematics
 
+For more in detail information check out this document - (https://drive.google.com/file/d/1P-ZHq9-bp2RFAncW7hEp7lvw01aQN47K/view?usp=drive_link)
 ---
 
 ## 🎥 Demo Videos (copyrighted by yaxita and manasa)
