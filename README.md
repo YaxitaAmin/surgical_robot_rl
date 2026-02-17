@@ -216,17 +216,6 @@ docker run --rm brain-surgery-rl
 
 ---
 
-## 📄 Citation
-
-```bibtex
-@article{amin2024rl_surgery,
-  title={Reinforcement Learning-Based Path Planning for Robotic Brain Surgery Simulation},
-  author={Amin, Yaxita and Manasanjani, K.},
-  institution={University of Maryland, College Park},
-  year={2024}
-}
-```
-
 ---
 
 ## 🙏 Acknowledgments
