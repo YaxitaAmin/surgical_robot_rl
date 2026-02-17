@@ -20,9 +20,9 @@ Key highlights:
 ---
 
 ## 🎥 Demo Videos
+![Copy of Video Project 5 (1) (1) (1)](https://github.com/user-attachments/assets/00841dda-27bb-4a1d-95bf-f6a6a7a39508)
 
-[![demo video](video.mp4)
-](https://github.com/YaxitaAmin/surgical_robot_rl/raw/main/video.mp4)
+
 ---
 
 ## 🏗️ System Architecture
