@@ -25,7 +25,7 @@ Key highlights:
 
 ## 🏗️ System Architecture
 
-![System Architecture](_- visual selection (1).png)
+![System Architecture](image.png)
 
 ---
 
