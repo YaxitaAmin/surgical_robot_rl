@@ -25,7 +25,7 @@ Key highlights:
 
 ## 🏗️ System Architecture
 
-![Brain Surgery Visualization](_- visual selection (1).png)
+[Brain Surgery Visualization](_- visual selection (1).png)
 
 ---
 
