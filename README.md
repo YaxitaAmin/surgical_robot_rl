@@ -21,6 +21,8 @@ Key highlights:
 
 ## 🎥 Demo Videos
 
+![demo video](Copy of Video Project 5 (1) (1) (1).mp4)
+
 ---
 
 ## 🏗️ System Architecture
